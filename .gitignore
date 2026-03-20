@@ -1,4 +1,30 @@
+# Virtual environment
 .venv/
+venv/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# OS
 .DS_Store
+.DS_Store?
+
+# Data 
+data/raw/
+data/processed/
+*.csv
+
+# Models 
+mlruns/
+*.pkl
+*.joblib
+*.model
+
+# Jupyter
+.ipynb_checkpoints/
