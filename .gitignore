@@ -27,4 +27,5 @@ mlruns/
 *.model
 
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/.claude
+.claude
